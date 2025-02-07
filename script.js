@@ -2,7 +2,6 @@ window.onload = function() {
     const logos = [
         "/-/images/whatsapp.png",
         "/-/images/facebook.png",
-        "/-/images/instagram.png",
         "/-/images/tiktok.png"
     ];
     let currentLogoIndex = 0;
